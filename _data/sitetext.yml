@@ -91,17 +91,17 @@ ja: &DEFAULT_JA
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "Android"
-        url: https://ghproxy.com/https://github.com/newhometv/newhometv.github.io/releases/download/newhome-v2.0/Newhome_V2.apk
+        url: https://download.new-home.tv/Newhome_V2.apk
         logo: assets/img/clients/androidlogo.png
         button: "ダウンロード"
       - title: "iOS"
         url: https://apps.apple.com/is/app/sync-card/id1629218605
         logo: assets/img/clients/ioslogo.png
       - title: "Windows"
-        url: https://ghproxy.com/https://github.com/newhometv/newhometv.github.io/releases/download/newhome-v2.0/NewhomeforWin.msi
+        url: https://download.new-home.tv/NewhomeforWin.msi
         logo: assets/img/clients/windowslogo.png
       - title: "Mac OS"
-        url: https://ghproxy.com/https://github.com/newhometv/newhometv.github.io/releases/download/newhome-v2.0/NewhomeforMac.dmg
+        url: https://download.new-home.tv/NewhomeforMac.dmg
         logo: assets/img/clients/macoslogo.png
 
   team:
